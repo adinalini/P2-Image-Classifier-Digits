@@ -1,9 +1,16 @@
 # P2-Image-Classifier-Digits
 
-My second project under ACM Research div. In this project, I try to make an image classifier that can classify digits (handwritten MNIST Dataset from torchvision). 
+I learnt a lot from this project and was able to make an image classifier.
 
-Date of Completion- 30/3/2020
+I used the MNIST dataset from torchvision package.
+![MNIST Dataset](https://github.com/adinalini/P2-Image-Classifier-Digits/blob/master/Images/mnist.PNG)
 
+At first, the model couldn't predict anything as expected:
+![Before Training](https://github.com/adinalini/P2-Image-Classifier-Digits/blob/master/Images/before%20train.PNG)
+
+After training, the model predicted the digit successfully:
+![After Training 1](https://github.com/adinalini/P2-Image-Classifier-Digits/blob/master/Images/after%20train%202.PNG)
+![After Training 2](https://github.com/adinalini/P2-Image-Classifier-Digits/blob/master/Images/after%20train.PNG)
 
 
 
